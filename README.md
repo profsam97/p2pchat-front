@@ -16,7 +16,7 @@ This is a realtime chat application built with Next.js, TypeScript, and Tailwind
 * Next.js
 * TypeScript
 * Tailwind CSS
-* Websockets (using `ws` library)
+* Websockets (using `socket.io` library)
 * Zustand (for state management)
 
 ## Project Structure
